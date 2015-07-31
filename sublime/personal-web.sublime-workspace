@@ -1,0 +1,834 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"targe",
+				"targetObject"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"servicin",
+				"setServicing"
+			],
+			[
+				"ms",
+				"msgConfig"
+			],
+			[
+				"new",
+				"newTag"
+			],
+			[
+				"m",
+				"msgConfig"
+			],
+			[
+				"set",
+				"setAlertDisplay"
+			],
+			[
+				"mess",
+				"messageHistory"
+			],
+			[
+				"mssa",
+				"messageTypeCode"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"Mess",
+				"MessageConfiguration"
+			],
+			[
+				"serv",
+				"servicing"
+			],
+			[
+				"a",
+				"autoEnroll"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"msg",
+				"msgConfigurations"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"view",
+				"viewTitle"
+			],
+			[
+				"t",
+				"typeCode"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"act",
+				"activeMsgConfig"
+			],
+			[
+				"ac",
+				"activeMsgConfig"
+			],
+			[
+				"getMs",
+				"getMsgConfiguratons"
+			],
+			[
+				"M",
+				"MessageConfiguration"
+			],
+			[
+				"target",
+				"targetConfig"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"get",
+				"getActiveMenu"
+			],
+			[
+				"wat",
+				"watcherFn"
+			],
+			[
+				"active",
+				"activeMenuId"
+			],
+			[
+				"isActive",
+				"isActiveView"
+			],
+			[
+				"home",
+				"homeCtrl"
+			],
+			[
+				"test",
+				"testCtrl"
+			],
+			[
+				"conte",
+				"contentCtrl"
+			],
+			[
+				"dep",
+				"deployCtrl"
+			],
+			[
+				"conf",
+				"configCtrl"
+			],
+			[
+				"COre",
+				"CoreController"
+			],
+			[
+				"$",
+				"$routeProvider"
+			],
+			[
+				"Config",
+				"ConfigController"
+			],
+			[
+				"Navigat",
+				"NavigationCtl"
+			],
+			[
+				"nav",
+				"NavigationCtl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/personal-web/home.html",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/DMS_Workshop/Workbench/app/index.html",
+			"settings":
+			{
+				"buffer_size": 5538,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"in	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"id",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inc",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"idn",
+				"Bower: Install dependencies"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"bootstrap fo",
+				"Snippet: Bootstrap basic four column grid"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"gist",
+				"Package Control: List Packages"
+			],
+			[
+				"gher",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert ta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Gherk",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"Gherkin",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"Syntax gher",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"bowe",
+				"Bower: Install"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"indet",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"idne",
+				"Bower: Install dependencies"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Bower: Install dependencies"
+			],
+			[
+				"set synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package cp",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-form-view.html",
+		"/C/DMS_Workshop/Workbench/app/css/workbench.css",
+		"/C/Users/xux877/Downloads/workbench.pem",
+		"/C/DMS_Workshop/Workbench/app/resources/Check.svg",
+		"/C/CapOne Components/oneui-icons/README.md",
+		"/C/DMS_Workshop/Workbench/app/modules/content/content-module.js",
+		"/C/DMS_Workshop/Workbench/app/modules/content/content-editor-main.html",
+		"/C/DMS_Workshop/Workbench/app/index.html",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-controller.js",
+		"/C/DMS_Workshop/Workbench/model/MessageConfiguration.js",
+		"/C/DMS_Workshop/Workbench/app/model/workbench-data-proxy.js",
+		"/C/DMS_Workshop/Workbench/app/model/WorkbenchException.js",
+		"/C/DMS_Workshop/Workbench/app/model/MessageConfigurationBuilder.js",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-search-view.html",
+		"/C/Program Files (x86)/Cntlm/cntlm.ini",
+		"/C/Users/xux877/.bowerrc",
+		"/C/DMS_Workshop/Workbench/model/workbench-data-proxy.js",
+		"/C/DMS_Workshop/Workbench/model/productTypes.json",
+		"/C/DMS_Workshop/Workbench/model/lob.json",
+		"/C/DMS_Workshop/Workbench/model/SystemsOfRecord.json",
+		"/C/DMS_Workshop/Workbench/app/modules/core/workbench-data-proxy.js",
+		"/C/DMS_Workshop/Workbench/model/ServicingPlatforms.js",
+		"/C/Users/xux877/SOR-COF/SOR_COF_DATA_TABLE.json",
+		"/C/DMS_Workshop/Workbench/model/deployModel.cmd",
+		"/C/DMS_Workshop/Workbench/app/laboratory/experiments/selectTags/controllers/SelectSvgPlatlformController.js",
+		"/C/DMS_Workshop/Workbench/app/laboratory/experiments/selectTags/SelectPlatformTest.html",
+		"/C/DMS_Workshop/Workbench/app/laboratory/experiments/selectTags/model/ServicingPlatforms.js",
+		"/C/DMS_Workshop/Workbench/app/laboratory.html",
+		"/C/DMS_Workshop/Workbench/app/model/MessageConfiguration.js",
+		"/C/DMS_Workshop/Workbench/model/MessageConfigurationBuilder.js",
+		"/C/DMS_Workshop/Workbench/app/model/ServicingPlatforms.js",
+		"/C/DMS_Workshop/Workbench/model/jshashtable-master/builder/build.js",
+		"/C/DMS_Workshop/Workbench/model/WorkbenchException.js",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-module.js",
+		"/C/DMS_Workshop/Workbench/app/model/BuilderService.js",
+		"/C/DMS_Workshop/Workbench/app/sublime/dms-workbench.sublime-project",
+		"/C/DMS_Workshop/Workbench/app/modules/home/home.html",
+		"/C/DMS_Workshop/Workbench/app/model/persistable-object.js",
+		"/C/DMS_Workshop/docs/V1_Cheatsheet.html",
+		"/C/branchme/test",
+		"/C/DMS_Workshop/Workbench/model/TemplateConfiguration.js",
+		"/C/DMS_Workshop/Workbench/app/model/TemplateConfiguration.js",
+		"/C/DMS_Workshop/Workbench/app/modules/core/core.js",
+		"/C/DMS_Workshop/Workbench/tests/message-configuration/create-new-message-configuration.feature",
+		"/C/Users/xux877/Downloads/cucumber-js-master/cucumber-js-master/example/example.js",
+		"/C/DMS_Workshop/Workbench/server/app.js",
+		"/C/DMS_Workshop/Workbench/app/model/Message.js",
+		"/C/DMS_Workshop/Workbench/app/modules/core/state-service.js",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-create-view.html",
+		"/C/DMS_Workshop/Workbench/appspec.yml",
+		"/C/DMS_Workshop/Workbench/app/modules/core/WorkbenchDataProxy.js",
+		"/C/DMS_Workshop/Workbench/app/modules/main/oneui-icons/README.md",
+		"/C/DMS_Workshop/Workbench/app/modules/main/oneui-icons/fonts/ui-icons.ttf",
+		"/C/DMS_Workshop/Workbench/app/css/core.css",
+		"/C/DMS_Workshop/Workbench/app/css/utils.css",
+		"/C/Users/xux877/Downloads/Supernice.css",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-browse-view.html",
+		"/C/DMS_Workshop/Workbench/before-install.bat",
+		"/C/Users/xux877/Downloads/SampleApp_Linux/appspec.yml",
+		"/C/DMS_Workshop/Workbench/app/modules/home/home-module.js",
+		"/C/DMS_Workshop/Workbench/app/modules/core/dmw-active-menu-directive.js",
+		"/C/Users/xux877/Downloads/angular-bootstrap-checkbox-master/angular-bootstrap-checkbox-master/app.js",
+		"/C/Users/xux877/Downloads/angular-bootstrap-checkbox-master/angular-bootstrap-checkbox-master/karma.conf.js",
+		"/C/DMS_Workshop/Workbench/app/modules/core/dmw-checkbox.js",
+		"/C/DMS_Workshop/Workbench/app/script/custom-form-elements.js",
+		"/C/DMS_Workshop/Workbench/app/modules/main/main-controller.js",
+		"/C/DMS_Workshop/Workbench/app/css/form.css",
+		"/C/Users/xux877/AppData/Roaming/Sublime Text 2/Packages/Twitter Bootstrap Snippets/README.md",
+		"/C/DMS_Workshop/Workbench/app/resources/norton.png",
+		"/C/DMS_Workshop/Workbench/tests/message-configuration/duplicate-message-configuration.feature",
+		"/C/DMS_Workshop/Workbench/tests/message-configuration/navigate-configuration-module.feature",
+		"/C/Users/xux877/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/XI6QLTBB/ifm_SEND_TRXNL_LTR_vldtn_ldr_type.dml",
+		"/C/DMS_Workshop/Workbench/tests/message-configuration/search-message-configurations.feature",
+		"/C/Users/xux877/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/XI6QLTBB/create-new-message-configuration.feature",
+		"/C/DMS_Workshop/Workbench/tests/create-new-message-configuration.feature",
+		"/C/DMS_Workshop/Workbench/tests/duplicate-message-configuration.feaure",
+		"/C/DMS_Workshop/Workbench/tests/enable-disable-message-configuration.feature",
+		"/C/DMS_Workshop/Workbench/model/AlertConfiguration.js",
+		"/C/DMS_Workshop/Workbench/model/Message.js",
+		"/C/DMS_Workshop/Workbench/server/package.json",
+		"/C/DMS_Workshop/Workbench/tests/message-configuration/search-message-onfigurations.feaure",
+		"/C/DMS_Workshop/Workbench/tests/search-message-onfigurations.feaure",
+		"/C/DMS_Workshop/Workbench/.gitignore",
+		"/C/Windows/SysWOW64/cmd.exe",
+		"/C/DMS_Workshop/Workbench/app/.bowerrc",
+		"/C/DMS_Workshop/Workbench/app/package.json",
+		"/C/DMS_Workshop/Workbench/read-me.html",
+		"/C/DMS_Workshop/Workbench/app/android-icon-144x144.png",
+		"/C/DMS_Workshop/Workbench/app/ms-icon-144x144.png",
+		"/C/DMS_Workshop/Workbench/app/libraries/bootstrap-3.3.5/less/variables.less",
+		"/C/DMS_Workshop/Workbench/app/modules/content/content-home.html",
+		"/C/DMS_Workshop/Workbench/app/modules/deploy/deploy-home.html",
+		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-home.html",
+		"/C/DMS_Workshop/Workbench/app/modules/test/test-home.html",
+		"/C/DMS_Workshop/Workbench/app/modules/core/dmw-active-view-directive.js",
+		"/C/DMS_Workshop/Workbench/app/libraries/bootstrap-3.3.5/less/.csslintrc",
+		"/C/DMS_Workshop/Workbench/app/sass/settings-sample.scss",
+		"/C/DMS_Workshop/Workbench/app/npm-debug.log",
+		"/C/DMS_Workshop/Workbench/app/modules/main/oneui-header/partials/angular/oneui-header.html",
+		"/C/DMS_Workshop/Workbench/app/libraries/oneui-icons/README.md",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-form.html",
+		"/C/DMS_Workshop/Workbench/wireframes/dms-workbench-documentation.html",
+		"/C/DMS_Workshop/Workbench/app/libraries/oneui-footer/sass/footer.scss",
+		"/C/Capone Demo/oneui-angular-generator/node_modules/yeoman-generator/readme.md",
+		"/C/Capone Demo/oneui-header/README.md",
+		"/C/one-ui/oneui-core-style/README.md",
+		"/C/DMS_Workshop/Workbench/app/sass/_accessibility.css",
+		"/C/DMS_Workshop/Workbench/app/sass/_form-elements.scss",
+		"/C/Capone Demo/oneui-angular-generator/package.json",
+		"/C/DMS_Workshop/Workbench/.bowerrc",
+		"/C/DMS_Workshop/Workbench/app/modules/test/test-module.js",
+		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-module.js",
+		"/C/DMS_Workshop/Workbench/app/modules/main/main-module.js",
+		"/C/DMS_Workshop/Workbench/app/modules/deploy/deploy-module.js",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-home.html",
+		"/C/DMS_Workshop/Workbench/app/modules/home/home-home-controller.js",
+		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-home-controller.js",
+		"/C/DMS_Workshop/Workbench/app/services/state-service.js",
+		"/C/DMS_Workshop/Workbench/app/modules/config/config-home-controller.js",
+		"/C/DMS_Workshop/Workbench/app/directives/dmw-active-menu-directive.js",
+		"/C/DMS_Workshop/Workbench/app/modules/home/home-controller.js",
+		"/C/DMS_Workshop/Workbench/app/modules/content/content-controller.js",
+		"/C/DMS_Workshop/Workbench/app/modules/deploy/deploy-controller.js",
+		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-controller.js",
+		"/C/DMS_Workshop/Workbench/app/modules/test/test-controller.js",
+		"/C/DMS_Workshop/Workbench/app/directives/dmw-active-view-directive.js",
+		"/C/DMS_Workshop/Workbench/app/modules/core/core-controller.js",
+		"/C/DMS_Workshop/Workbench/app/bower-config.bowerrc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h5",
+			"list-group-item",
+			"center-block",
+			"checkboxModel[2]",
+			"pull-left",
+			"checkboxModel",
+			"\"},",
+			"\n",
+			"\"},",
+			"name",
+			")",
+			"(",
+			"600);",
+			"alertTypeCode",
+			"alert",
+			"undefinded",
+			"log",
+			"rootscope",
+			"injector",
+			"font-size",
+			"this.prototype",
+			"			\n",
+			"a",
+			"@link",
+			"getFactory",
+			"this.",
+			",\n",
+			"-lg-",
+			"header",
+			"bootstrap",
+			"open",
+			"closed",
+			"wireframes",
+			"article",
+			"col-md-offset-2",
+			"-lg-",
+			"setCurrentView",
+			"'\n",
+			">\n",
+			"dmw-active-menu",
+			"dmw-active-view",
+			"dmw-active-menu",
+			"dmwActiveMenu",
+			"setActiveView",
+			"workbench"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"},",
+			"value",
+			"",
+			"600)};",
+			"null",
+			"this",
+			"this.prototype.",
+			"thuis.prototype.",
+			"var ",
+			"-md-",
+			"close",
+			"section",
+			"col-md-offset-1",
+			"-md-",
+			"dmw-active-menu\ndmw-active-menu\ndmwactivemenu",
+			"dmw-active-menu\ndmw-active-menu\ndmwactiveview",
+			"dmw-active-menu\ndmw-active-menu\ndmwactivemenu",
+			"dmw-active-menu"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/personal-web/home.html",
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/DMS_Workshop/Workbench/app/index.html",
+					"settings":
+					{
+						"buffer_size": 5538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true
+}
