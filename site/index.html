@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="EN" ng-app="site">
+<head>
+	<link rel="stylesheet" type="text/css" href="/node_modules/bootstrap/dist/css/bootstrap.css"></link>
+	 <link rel="stylesheet" type="text/css" href="/css/site.css"></link>
+	<script src="//use.typekit.net/ekk8rkz.js"></script>
+	<script>try{Typekit.load();}catch(e){}</script>
+</head>
+<body class="{{background}}" ng-controller="siteCtrl">
+	<div ng-include="'/components/header.html'"></div>
+	<section>
+		<div class="container buffer">
+			<div class="ng-view"  cache-view="false">
+			</div>
+		</div>
+	</section>
+	<div ng-include="'/components/footer.html'"></div>
+	<script type="text/javascript" src="/node_modules/jquery/dist/jquery.js"></script>
+	<script type="text/javascript" src="/node_modules/bootstrap/dist/js/bootstrap.js"></script>
+	<script type="text/javascript" src="/node_modules/angular/angular.js"></script>
+	<script type="text/javascript" src="/components/angular-route.js"></script>
+	<script type="text/javascript" src="/components/angular-cookies.js"></script>
+	<script type="text/javascript" src="/components/angular-resource.js"></script>
+	<script type="text/javascript" src="/components/angular-sanitize.js"></script>
+	<script type="text/javascript" src="/components/SiteController.js"></script>
+</body>
+</html>

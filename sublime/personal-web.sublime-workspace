@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"section",
+				"sectionIndex"
+			],
+			[
+				"F",
+				"fromJson"
+			],
+			[
+				"$route",
+				"$routeParams"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"site",
+				"PersonalSiteCtl"
+			],
+			[
+				"pwe",
+				"personaWebCtrl"
+			],
+			[
+				"bg",
+				"bgi	background-image: url(${0});"
+			],
+			[
 				"color",
 				"background-color"
 			],
@@ -244,18 +272,50 @@
 	"buffers":
 	[
 		{
-			"file": "/C/personal-web/home.html",
+			"file": "/C/personal-site/personal-web/site/content/home/home.html",
 			"settings":
 			{
-				"buffer_size": 70,
+				"buffer_size": 344,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/DMS_Workshop/Workbench/app/index.html",
+			"file": "/C/personal-site/personal-web/site/index.html",
 			"settings":
 			{
-				"buffer_size": 5538,
+				"buffer_size": 1283,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/personal-site/personal-web/site/components/SiteController.js",
+			"settings":
+			{
+				"buffer_size": 779,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/personal-site/personal-web/site/content/essays/default.html",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/personal-site/personal-web/site/content/about/index.html",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/personal-site/personal-web/site/components/header.html",
+			"settings":
+			{
+				"buffer_size": 1154,
 				"line_ending": "Windows"
 			}
 		}
@@ -263,13 +323,9 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 219.0,
+		"height": 392.0,
 		"selected_items":
 		[
-			[
-				"html",
-				"Set Syntax: HTML (Angular.js)"
-			],
 			[
 				"in	",
 				"Indentation: Reindent Lines"
@@ -280,6 +336,34 @@
 			],
 			[
 				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				" ind",
 				"Indentation: Reindent Lines"
 			],
 			[
@@ -305,10 +389,6 @@
 			[
 				"pac",
 				"Package Control: Install Package"
-			],
-			[
-				"jso",
-				"Set Syntax: JSON"
 			],
 			[
 				"java",
@@ -369,10 +449,6 @@
 			[
 				"Syntax gher",
 				"Set Syntax: Gherkin"
-			],
-			[
-				"pack",
-				"Package Control: Install Package"
 			],
 			[
 				"packag",
@@ -467,7 +543,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 408.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -484,6 +560,48 @@
 	},
 	"file_history":
 	[
+		"/C/personal-site/personal-web/site/index.json",
+		"/C/personal-site/personal-web/site/components/Librarian.js",
+		"/C/personal-site/personal-web/site/components/SiteController.js",
+		"/C/personal-site/personal-web/site/index.html",
+		"/C/personal-site/personal-web/site/content/essays/index.html",
+		"/C/personal-site/personal-web/site/content/fiction/index.html",
+		"/C/personal-site/personal-web/site/content/about/index.html",
+		"/C/personal-site/personal-web/site/content/home/home.html",
+		"/C/personal-site/personal-web/site/css/site.css",
+		"/C/Users/xux877/.curlc",
+		"/C/http-server/package.json",
+		"/C/http-server/README.md",
+		"/C/personal-site/personal-web/site/components/header.html",
+		"/C/personal-site/personal-web/site/content/essays/ghetto.html",
+		"/C/personal-site/personal-web/site/content/essays/hunger.html",
+		"/C/personal-site/personal-web/site/content/journal/hunger.html",
+		"/C/personal-site/personal-web/site/content/journal/index.html",
+		"/C/node/README.md",
+		"/C/personal-site/personal-web/site/components/footer.html",
+		"/C/personal-site/personal-web/site/script/personal-web.js",
+		"/C/personal-site/personal-web/site/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/C/personal-site/personal-web/site/node_modules/bootstrap/dist/css/bootstrap-theme.css",
+		"/C/personal-site/personal-web/site/content/home.html",
+		"/C/personal-site/personal-web/site/content-buddha.html",
+		"/C/personal-site/personal-web/site/components/modules/MainController.js",
+		"/C/personal-site/personal-web/site/components/modules/personal-web.js",
+		"/C/personal-site/personal-web/site/deploy/readme.txt",
+		"/C/personal-site/personal-web/site/node_modules/bootstrap/less/variables.less",
+		"/C/personal-site/personal-web/site/sftp-config.json",
+		"/C/personal-site/personal-web/site/content.html",
+		"/C/personal-site/personal-web/site/deploy/node-js.template.json",
+		"/C/personal-site/personal-web/site/home.html",
+		"/C/Users/xux877/Desktop/2015213nSa-node-js.template.json",
+		"/C/Users/xux877/Downloads/FullPageBackgroundImage/FullPageBackgroundImage/css/style.css",
+		"/C/Users/xux877/Downloads/FullPageBackgroundImage/FullPageBackgroundImage/css-2.html",
+		"/C/personal-site/personal-web/site/css/bootstrap.css",
+		"/C/Users/xux877/Downloads/startbootstrap-full-1.0.3/startbootstrap-full-1.0.3/README.md",
+		"/C/DMS_Workshop/Workbench/app/index.html",
+		"/C/personal-site/personal-web/sublime/personal-web.sublime-project",
+		"/C/personal-web/site/home.html",
+		"/C/personal-web/home.html",
+		"/C/personal-web/sublime/personal-web.sublime-project",
 		"/C/DMS_Workshop/Workbench/app/modules/config/config-form-view.html",
 		"/C/DMS_Workshop/Workbench/app/css/workbench.css",
 		"/C/Users/xux877/Downloads/workbench.pem",
@@ -491,7 +609,6 @@
 		"/C/CapOne Components/oneui-icons/README.md",
 		"/C/DMS_Workshop/Workbench/app/modules/content/content-module.js",
 		"/C/DMS_Workshop/Workbench/app/modules/content/content-editor-main.html",
-		"/C/DMS_Workshop/Workbench/app/index.html",
 		"/C/DMS_Workshop/Workbench/app/modules/config/config-controller.js",
 		"/C/DMS_Workshop/Workbench/model/MessageConfiguration.js",
 		"/C/DMS_Workshop/Workbench/app/model/workbench-data-proxy.js",
@@ -570,48 +687,7 @@
 		"/C/Windows/SysWOW64/cmd.exe",
 		"/C/DMS_Workshop/Workbench/app/.bowerrc",
 		"/C/DMS_Workshop/Workbench/app/package.json",
-		"/C/DMS_Workshop/Workbench/read-me.html",
-		"/C/DMS_Workshop/Workbench/app/android-icon-144x144.png",
-		"/C/DMS_Workshop/Workbench/app/ms-icon-144x144.png",
-		"/C/DMS_Workshop/Workbench/app/libraries/bootstrap-3.3.5/less/variables.less",
-		"/C/DMS_Workshop/Workbench/app/modules/content/content-home.html",
-		"/C/DMS_Workshop/Workbench/app/modules/deploy/deploy-home.html",
-		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-home.html",
-		"/C/DMS_Workshop/Workbench/app/modules/test/test-home.html",
-		"/C/DMS_Workshop/Workbench/app/modules/core/dmw-active-view-directive.js",
-		"/C/DMS_Workshop/Workbench/app/libraries/bootstrap-3.3.5/less/.csslintrc",
-		"/C/DMS_Workshop/Workbench/app/sass/settings-sample.scss",
-		"/C/DMS_Workshop/Workbench/app/npm-debug.log",
-		"/C/DMS_Workshop/Workbench/app/modules/main/oneui-header/partials/angular/oneui-header.html",
-		"/C/DMS_Workshop/Workbench/app/libraries/oneui-icons/README.md",
-		"/C/DMS_Workshop/Workbench/app/modules/config/config-form.html",
-		"/C/DMS_Workshop/Workbench/wireframes/dms-workbench-documentation.html",
-		"/C/DMS_Workshop/Workbench/app/libraries/oneui-footer/sass/footer.scss",
-		"/C/Capone Demo/oneui-angular-generator/node_modules/yeoman-generator/readme.md",
-		"/C/Capone Demo/oneui-header/README.md",
-		"/C/one-ui/oneui-core-style/README.md",
-		"/C/DMS_Workshop/Workbench/app/sass/_accessibility.css",
-		"/C/DMS_Workshop/Workbench/app/sass/_form-elements.scss",
-		"/C/Capone Demo/oneui-angular-generator/package.json",
-		"/C/DMS_Workshop/Workbench/.bowerrc",
-		"/C/DMS_Workshop/Workbench/app/modules/test/test-module.js",
-		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-module.js",
-		"/C/DMS_Workshop/Workbench/app/modules/main/main-module.js",
-		"/C/DMS_Workshop/Workbench/app/modules/deploy/deploy-module.js",
-		"/C/DMS_Workshop/Workbench/app/modules/config/config-home.html",
-		"/C/DMS_Workshop/Workbench/app/modules/home/home-home-controller.js",
-		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-home-controller.js",
-		"/C/DMS_Workshop/Workbench/app/services/state-service.js",
-		"/C/DMS_Workshop/Workbench/app/modules/config/config-home-controller.js",
-		"/C/DMS_Workshop/Workbench/app/directives/dmw-active-menu-directive.js",
-		"/C/DMS_Workshop/Workbench/app/modules/home/home-controller.js",
-		"/C/DMS_Workshop/Workbench/app/modules/content/content-controller.js",
-		"/C/DMS_Workshop/Workbench/app/modules/deploy/deploy-controller.js",
-		"/C/DMS_Workshop/Workbench/app/modules/monitor/monitor-controller.js",
-		"/C/DMS_Workshop/Workbench/app/modules/test/test-controller.js",
-		"/C/DMS_Workshop/Workbench/app/directives/dmw-active-view-directive.js",
-		"/C/DMS_Workshop/Workbench/app/modules/core/core-controller.js",
-		"/C/DMS_Workshop/Workbench/app/bower-config.bowerrc"
+		"/C/DMS_Workshop/Workbench/read-me.html"
 	],
 	"find":
 	{
@@ -630,6 +706,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"nav",
 			"h5",
 			"list-group-item",
 			"center-block",
@@ -710,27 +787,30 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/personal-web/home.html",
+					"file": "/C/personal-site/personal-web/site/content/home/home.html",
 					"settings":
 					{
-						"buffer_size": 70,
+						"buffer_size": 344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								70,
-								70
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -741,22 +821,143 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/DMS_Workshop/Workbench/app/index.html",
+					"file": "/C/personal-site/personal-web/site/index.html",
 					"settings":
 					{
-						"buffer_size": 5538,
+						"buffer_size": 1283,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								32,
-								0
+								1175,
+								1175
 							]
 						],
 						"settings":
 						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/personal-site/personal-web/site/components/SiteController.js",
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/personal-site/personal-web/site/content/essays/default.html",
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/personal-site/personal-web/site/content/about/index.html",
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/personal-site/personal-web/site/components/header.html",
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								847
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -804,6 +1005,10 @@
 	{
 		"height": 124.0
 	},
+	"output.sftp":
+	{
+		"height": 225.0
+	},
 	"replace":
 	{
 		"height": 64.0
@@ -825,8 +1030,8 @@
 		],
 		"width": 380.0
 	},
-	"show_minimap": false,
-	"show_open_files": false,
+	"show_minimap": true,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 309.0,
