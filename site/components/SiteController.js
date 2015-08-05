@@ -1,43 +1,37 @@
-angular.module("site", ['ngCookies',
-        'ngResource',
-        'ngSanitize',
-        'ngRoute'
-    ])
-.controller("siteCtrl",SiteController)
+function SiteController($scope,$routeParams,librarian){
 
-.config(function($routeProvider){
+	$scope.style = "water-lotus";
 
-	$routeProvider.when('content/:section/:item',{
-		templateUrl: function(params){
 
-			//based on docs we can't use $routeParams yet
-			var section = params[0];
-			var item = params[1];
 
-			if(item == null|item + ""){
-				item = "default"
-			}
+		var section = $routeParams.section;
+		var item = $routeParams.item;
 
-			var templateUrl = "/content/" + section + "/" + item + ".html"
+		//first test our params
+		if(section == null| section == "")
+		{
+			return "/content/default.html"; 
+		}
 
-			console.log(templateUrl);
+		if(item == null | item == "")
+		{
+			return "/" + section + "/default.html";
+		}
 
-			return templateUrl;
+		var targetItem = librarian.getItem(section,item);
 
-			},
-			controller:'siteCtrl'
-	});
+		if(targetItem == null ){
 
-	
+			var dummy = new Object();
 
-	$routeProvider.otherwise({
-		templateUrl:'/content/home/home.html',
-		controller:'siteCtrl'
-	});
-});
+			scope$.currentItem = dummy.prototype.path = "/content/default.html";
 
-function SiteController($scope,$routeParams){
-
-	$scope.background = "background-lotus";
+		}else
+		{
+			$scope.currentItem = targetItem;
+		}
 
 }
+
+
+

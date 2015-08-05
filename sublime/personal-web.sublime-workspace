@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"site",
+				"siteCtrl"
+			],
+			[
 				"section",
 				"sectionIndex"
 			],
@@ -18,10 +22,6 @@
 			[
 				"marg",
 				"margin-top"
-			],
-			[
-				"site",
-				"PersonalSiteCtl"
 			],
 			[
 				"pwe",
@@ -272,18 +272,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/personal-site/personal-web/site/content/home/home.html",
-			"settings":
-			{
-				"buffer_size": 344,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/C/personal-site/personal-web/site/index.html",
 			"settings":
 			{
-				"buffer_size": 1283,
+				"buffer_size": 1259,
 				"line_ending": "Windows"
 			}
 		},
@@ -291,23 +283,15 @@
 			"file": "/C/personal-site/personal-web/site/components/SiteController.js",
 			"settings":
 			{
-				"buffer_size": 779,
+				"buffer_size": 596,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/personal-site/personal-web/site/content/essays/default.html",
+			"file": "/C/personal-site/personal-web/site/components/SiteModule.js",
 			"settings":
 			{
-				"buffer_size": 26,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/personal-site/personal-web/site/content/about/index.html",
-			"settings":
-			{
-				"buffer_size": 26,
+				"buffer_size": 405,
 				"line_ending": "Windows"
 			}
 		},
@@ -315,7 +299,43 @@
 			"file": "/C/personal-site/personal-web/site/components/header.html",
 			"settings":
 			{
-				"buffer_size": 1154,
+				"buffer_size": 1132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/personal-site/personal-web/site/components/LibrarianService.js",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/personal-site/personal-web/site/components/DynamicArticle.js",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows",
+				"name": "function DynamicArticle(){"
+			}
+		},
+		{
+			"file": "/C/personal-site/personal-web/site/content/about/default.html",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": " {\n      \"index\":[\n      {\n         \"section\":\"essays\",\n         \"items\":[  \n            {  \n               \"name\":\"ghetto\",\n               \"title\":\"Need a beter title\",\n               \"style\":\"water-lotus\",\n               \"path\":\"/content/essays/ghetto.html\"\n            },\n            {  \n               \"name\":\"hunger\",\n               \"title\":\"To be written\",\n               \"style\":\"water-lotus\",\n               \"path\":\"/content/essays/hunger.html\"\n            }\n         ]\n      },\n      {  \n         \"section\":\"fiction\",\n         \"items\":[  \n            {  \n               \"name\":\"ghetto\",\n               \"title\":\"Need a beter title\",\n               \"style\":\"water-lotus\",\n               \"path\":\"/content/essays/ghetto.html\"\n            },\n            {  \n               \"name\":\"hunger\",\n               \"title\":\"To be written\",\n               \"style\":\"water-lotus\",\n               \"path\":\"/content/essays/hunger.html\"\n            }\n         ]\n      },\n      {  \n         \"section\":\"photos\",\n         \"items\":[  \n            {  \n               \"name\":\"ghetto\",\n               \"title\":\"Need a be taken\",\n               \"style\":\"water-lotus\",\n               \"path\":\"/content/essays/ghetto.html\"\n            },\n            {  \n               \"name\":\"hunger\",\n               \"title\":\"To be taken\",\n               \"style\":\"black-lotus\",\n               \"path\":\"/content/essays/hunger.html\"\n            }\n         ]\n      }\n   ]}\n",
+			"file": "/C/personal-site/personal-web/site/index.json",
+			"file_size": 1491,
+			"file_write_time": 130832430290825374,
+			"settings":
+			{
+				"buffer_size": 1428,
 				"line_ending": "Windows"
 			}
 		}
@@ -323,19 +343,31 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 242.0,
 		"selected_items":
 		[
 			[
-				"in	",
-				"Indentation: Reindent Lines"
+				"ja",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"in",
 				"Indentation: Reindent Lines"
 			],
 			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
 				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"in	",
 				"Indentation: Reindent Lines"
 			],
 			[
@@ -343,15 +375,7 @@
 				"Set Syntax: JSON"
 			],
 			[
-				"html",
-				"Set Syntax: HTML (Angular.js)"
-			],
-			[
 				"jac",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"ja",
 				"Set Syntax: JavaScript"
 			],
 			[
@@ -543,7 +567,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 416.0
+		"width": 408.0
 	},
 	"console":
 	{
@@ -560,15 +584,19 @@
 	},
 	"file_history":
 	[
+		"/C/personal-site/personal-web/site/components/HomeController.js",
+		"/C/personal-site/personal-web/site/components/EssayController.js",
+		"/C/personal-site/personal-web/site/content/default.html",
+		"/C/personal-site/personal-web/site/content/home/home.html",
 		"/C/personal-site/personal-web/site/index.json",
+		"/C/personal-site/personal-web/site/css/site.css",
+		"/C/personal-site/personal-web/site/content/essays/default.html",
+		"/C/personal-site/personal-web/site/content/about/index.html",
 		"/C/personal-site/personal-web/site/components/Librarian.js",
 		"/C/personal-site/personal-web/site/components/SiteController.js",
 		"/C/personal-site/personal-web/site/index.html",
 		"/C/personal-site/personal-web/site/content/essays/index.html",
 		"/C/personal-site/personal-web/site/content/fiction/index.html",
-		"/C/personal-site/personal-web/site/content/about/index.html",
-		"/C/personal-site/personal-web/site/content/home/home.html",
-		"/C/personal-site/personal-web/site/css/site.css",
 		"/C/Users/xux877/.curlc",
 		"/C/http-server/package.json",
 		"/C/http-server/README.md",
@@ -683,11 +711,7 @@
 		"/C/DMS_Workshop/Workbench/server/package.json",
 		"/C/DMS_Workshop/Workbench/tests/message-configuration/search-message-onfigurations.feaure",
 		"/C/DMS_Workshop/Workbench/tests/search-message-onfigurations.feaure",
-		"/C/DMS_Workshop/Workbench/.gitignore",
-		"/C/Windows/SysWOW64/cmd.exe",
-		"/C/DMS_Workshop/Workbench/app/.bowerrc",
-		"/C/DMS_Workshop/Workbench/app/package.json",
-		"/C/DMS_Workshop/Workbench/read-me.html"
+		"/C/DMS_Workshop/Workbench/.gitignore"
 	],
 	"find":
 	{
@@ -787,15 +811,193 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/personal-site/personal-web/site/content/home/home.html",
+					"file": "/C/personal-site/personal-web/site/index.html",
 					"settings":
 					{
-						"buffer_size": 344,
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								675,
+								675
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/personal-site/personal-web/site/components/SiteController.js",
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/personal-site/personal-web/site/components/SiteModule.js",
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								248
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/personal-site/personal-web/site/components/header.html",
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/personal-site/personal-web/site/components/LibrarianService.js",
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/personal-site/personal-web/site/components/DynamicArticle.js",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function DynamicArticle(){",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/personal-site/personal-web/site/content/about/default.html",
+					"settings":
+					{
+						"buffer_size": 26,
 						"regions":
 						{
 						},
@@ -820,49 +1022,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/personal-site/personal-web/site/index.html",
+					"buffer": 7,
+					"file": "/C/personal-site/personal-web/site/index.json",
 					"settings":
 					{
-						"buffer_size": 1283,
+						"buffer_size": 1428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1175,
-								1175
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/personal-site/personal-web/site/components/SiteController.js",
-					"settings":
-					{
-						"buffer_size": 779,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								221,
-								221
+								1428,
+								1428
 							]
 						],
 						"settings":
@@ -871,95 +1043,8 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/personal-site/personal-web/site/content/essays/default.html",
-					"settings":
-					{
-						"buffer_size": 26,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15,
-								15
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/personal-site/personal-web/site/content/about/index.html",
-					"settings":
-					{
-						"buffer_size": 26,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15,
-								15
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/personal-site/personal-web/site/components/header.html",
-					"settings":
-					{
-						"buffer_size": 1154,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								847,
-								847
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/AngularJS/AngularJS-sublime-package-master/AngularJS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1027,6 +1112,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"in",
+				"/C/personal-web/sublime/personal-web.sublime-project"
+			]
 		],
 		"width": 380.0
 	},

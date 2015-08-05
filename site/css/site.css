@@ -19,7 +19,7 @@
   -o-background-size: cover;
   -webkit-background-size: cover;
 }
-.background-lotus-water {
+.water-lotus {
   background: url('../resources/lotus-water.jpg') no-repeat 50% 50% fixed; 
   background-size: cover;
   -moz-background-size: cover;
