@@ -1,54 +1,55 @@
-var indexData=
-      "index":[
-      {
-         "section":"essays",
-         "items":[  
-            {  
-               "name":"ghetto",
-           "title":"Need a beter title",
-               "style":"water-lotus",
-               "path":"/content/essays/ghetto.html"
-            },
-            {  
-               "name":"hunger",
-               "title":"To be written",
-               "style":"water-lotus",
-               "path":"/content/essays/hunger.html"
-            }
-         ]
-      },
-      {  
-         "section":"fiction",
-         "items":[  
-            {  
-               "name":"ghetto",
-               "title":"Need a beter title",
-               "style":"water-lotus",
-               "path":"/content/essays/ghetto.html"
-            },
-            {  
-               "name":"hunger",
-               "title":"To be written",
-               "style":"water-lotus",
-               "path":"/content/essays/hunger.html"
-            }
-         ]
-      },
-      {  
-         "section":"photos",
-         "items":[  
-            {  
-               "name":"ghetto",
-               "title":"Need a be taken",
-               "style":"water-lotus",
-               "path":"/content/essays/ghetto.html"
-            },
-            {  
-               "name":"hunger",
-               "title":"To be taken",
-               "style":"black-lotus",
-               "path":"/content/essays/hunger.html"
-            }
-         ]
-      }
-   ]};
+{
+    "index": [
+        {
+            "section": "essays",
+            "items": [
+                {
+                    "name": "ghetto",
+                    "title": "Need a beter title",
+                    "style": "water-lotus",
+                    "path": "/content/essays/ghetto.html"
+                },
+                {
+                    "name": "hunger",
+                    "title": "To be written",
+                    "style": "water-lotus",
+                    "path": "/content/essays/hunger.html"
+                }
+            ]
+        },
+        {
+            "section": "fiction",
+            "items": [
+                {
+                    "name": "ghetto",
+                    "title": "Need a beter title",
+                    "style": "water-lotus",
+                    "path": "/content/essays/ghetto.html"
+                },
+                {
+                    "name": "hunger",
+                    "title": "To be written",
+                    "style": "water-lotus",
+                    "path": "/content/essays/hunger.html"
+                }
+            ]
+        },
+        {
+            "section": "photos",
+            "items": [
+                {
+                    "name": "ghetto",
+                    "title": "Need a be taken",
+                    "style": "water-lotus",
+                    "path": "/content/essays/ghetto.html"
+                },
+                {
+                    "name": "hunger",
+                    "title": "To be taken",
+                    "style": "black-lotus",
+                    "path": "/content/essays/hunger.html"
+                }
+            ]
+        }
+    ]
+}

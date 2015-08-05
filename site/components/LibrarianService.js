@@ -1,13 +1,18 @@
-function LibrarianService($http){
+function LibrarianService($resource){
 
-  var  index = angular.fromJson(indexData);
+  var  index = null;
+
+  var  indexRequest = $resource('index.json');
+  indexRequest.get(function(data){
+      index = data;
+  });
+  
+
 
   return{
 
      getItem: function(section,item,$scope){
 
-
-    //todo: Write asynch get here.  Only want it one tieme.
      for(x = 0; x < index.length; x++)
       {
         if(index[x].section == section)

@@ -1,7 +1,8 @@
-angular.module("site", ['ngRoute'])
-
+angular.module("site", ['ngRoute','ngResource'])
 .controller("siteCtrl",SiteController)
+.controller("articleCtrl", ArticleController)
 .factory("librarian", LibrarianService)
+.directive("library-item", LibraryItem)
 
 .config(function ($routeProvider){
 		$routeProvider.when('/content/:section/:item/',{

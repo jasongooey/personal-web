@@ -1,14 +1,10 @@
 function SiteController($scope,$routeParams,librarian){
 
-	$scope.style = "water-lotus";
-
-
-
 		var section = $routeParams.section;
 		var item = $routeParams.item;
 
 		//first test our params
-		if(section == null| section == "")
+		if(section == undefined| section == "")
 		{
 			return "/content/default.html"; 
 		}
@@ -18,19 +14,10 @@ function SiteController($scope,$routeParams,librarian){
 			return "/" + section + "/default.html";
 		}
 
-		var targetItem = librarian.getItem(section,item);
+		$scope.targetItem = librarian.getItem(section,item);
 
-		if(targetItem == null ){
-
-			var dummy = new Object();
-
-			scope$.currentItem = dummy.prototype.path = "/content/default.html";
-
-		}else
-		{
-			$scope.currentItem = targetItem;
-		}
-
+		window.alert($scope.targetItem);
+		
 }
 
 

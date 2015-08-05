@@ -1,0 +1,6 @@
+function ArticleController($scope,$http){
+
+	
+ 
+    
+}

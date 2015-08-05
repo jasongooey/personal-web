@@ -1,3 +1,0 @@
-nction HomeController($scope, $routeParams){
-
-}

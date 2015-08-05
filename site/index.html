@@ -6,21 +6,23 @@
 	<!--script src="//use.typekit.net/ekk8rkz.js"></script>
 	<script>try{Typekit.load();}catch(e){}</script>-->
 </head>
-<body class="{{style}}" ng-app="site" ng-controller="siteCtrl">
+<body class="lotus-water" ng-app="site" ng-controller="siteCtrl">
 	<div ng-include="'/components/header.html'"></div>
 	<section>
-		<div class="container buffer">
-			<div class="ng-view"  cache-view="false">
-			</div>
+		<div class="container buffer" controller="articleCtrl">
+			
 		</div>
 	</section>
 	<div ng-include="'/components/footer.html'"></div>
-	<script type="text/javascript" src="/index.js"></script>
+	
 	<script type="text/javascript" src="/node_modules/jquery/dist/jquery.js"></script>
 	<script type="text/javascript" src="/node_modules/bootstrap/dist/js/bootstrap.js"></script>
 	<script type="text/javascript" src="/node_modules/angular/angular.js"></script>
 	<script type="text/javascript" src="/components/angular-route.js"></script>
+	<script type="text/javascript" src="/components/angular-resource.js"></script>
 	<script type="text/javascript" src="/components/LibrarianService.js"></script>
+	<script type="text/javascript" src="/components/LibraryItem.js"></script>
+	<script type="text/javascript" src="/components/ArticleController.js"></script>
 	<script type="text/javascript" src="/components/SiteController.js"></script>
 	<script type="text/javascript" src="/components/SiteModule.js"></script>
 	
